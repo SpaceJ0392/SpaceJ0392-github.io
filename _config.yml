@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mechine Learning"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "정우주"
 description              : "An amazing website."
 url                      : "https://SpaceJ0392.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
