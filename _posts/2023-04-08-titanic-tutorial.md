@@ -332,7 +332,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](../images/output_15_0.png)
     
 
 
@@ -355,7 +355,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](../images/output_18_0.png)
     
 
 
@@ -588,7 +588,7 @@ for embarked in train_df['Embarked'].dropna().unique():
 
 
     
-![png](output_26_0.png)
+![png](../images/output_26_0.png)
     
 
 
@@ -613,7 +613,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](../images/output_28_0.png)
     
 
 
@@ -649,7 +649,7 @@ for sibsp in list(sorted_SibSp_idx):
 
 
     
-![png](output_31_0.png)
+![png](../images/output_31_0.png)
     
 
 
@@ -678,7 +678,7 @@ for parch in list(sorted_Parch_idx):
 
 
     
-![png](output_33_0.png)
+![png](../images/output_33_0.png)
     
 
 
