@@ -2727,7 +2727,7 @@ fig.set_ylabel('WindSpeed3pm')
 
 
     
-![png](output_98_1.png)
+![png](../images/output_98_1.png)
     
 
 
@@ -2777,7 +2777,7 @@ fig.set_ylabel('RainTomorrow')
 
 
     
-![png](output_101_1.png)
+![png](../images/output_101_1.png)
     
 
 
@@ -5151,7 +5151,7 @@ sns.heatmap(cm_matrix, annot=True, fmt='d', cmap='YlGnBu')
 
 
     
-![png](output_204_1.png)
+![png](../images/output_204_1.png)
     
 
 
@@ -5510,7 +5510,7 @@ plt.ylabel('Frequency')
 
 
     
-![png](output_231_1.png)
+![png](../images/output_231_1.png)
     
 
 
@@ -5701,7 +5701,7 @@ plt.show()
 
 
     
-![png](output_237_0.png)
+![png](../images/output_237_0.png)
     
 
 
