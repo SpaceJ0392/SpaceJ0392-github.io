@@ -75,8 +75,6 @@ Sigmoid 함수는 로지스틱 함수의 특수한 경우입니다. 그것은 �
 
 ## **결정 바운더리**
 
-The sigmoid function returns a probability value between 0 and 1. This probability value is then mapped to a discrete class which is either “0” or “1”. In order to map this probability value to a discrete class (pass/fail, yes/no, true/false), we select a threshold value. This threshold value is called Decision boundary. Above this threshold value, we will map the probability values into class 1 and below which we will map values into class 0.
-
 Sigmoid 함수는 0과 1 사이의 확률 값을 반환합니다. 그런 다음 이 확률 값은 "0" 또는 "1"인 이산 클래스에 매핑됩니다. 이 확률값을 이산 클래스(통과/실패, 예/아니오, 참/거짓)에 매핑하기 위해 임계값을 선택합니다. 이 임계값을 결정 바운더리라고 합니다. 이 임계값을 넘는다면 확률값을 클래스1로 매핑하고 이 값을 넘지 못하면 클래스0으로 매핑합니다.
 
 수학적으로 다음과 같이 나타낼 수 있습니다.
