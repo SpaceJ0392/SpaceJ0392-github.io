@@ -513,7 +513,7 @@ print(model.predict([[50,44,-12]]))
         app.run(debug=True)
     ```
     
-    해당 코드를 살펴보면 `[app.py](http://app.py)` 의 실행으로, `index.html` 을 호출하여 보이고, 만약 `index.html` 파일에서 데이터를 post하면 해당 내용을 바탕으로 모델을 돌려 그 결과를 반환하는 형태의 웹앱임을 확인할 수 있습니다.
+    해당 코드를 살펴보면 `app.py` 의 실행으로, `index.html` 을 호출하여 보이고, 만약 `index.html` 파일에서 데이터를 post하면 해당 내용을 바탕으로 모델을 돌려 그 결과를 반환하는 형태의 웹앱임을 확인할 수 있습니다.
     
 
 ---
