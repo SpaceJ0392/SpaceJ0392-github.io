@@ -360,7 +360,7 @@ print(model.predict([[50,44,-12]]))
 
 해당 만들어진 웹 애플리케이션은 다음과 같은 디렉터리 구조를 가집니다.
 
-![Untitled](%E1%84%86%E1%85%A5%E1%84%89%E1%85%B5%E1%86%AB%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20-%20%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%8B%E1%85%A2%E1%86%B8%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%2084896be1121e4c98af9846fae4c06df1/Untitled.png)
+![png](../images/Project_Structure.png)
 
 아래의 내용은 각 파일별 작성된 코드 및 설명입니다.
 
@@ -530,13 +530,13 @@ python app.py 또는 python3 app.py
 
 **결과 페이지**
 
-![초기 Flask 웹을 실행하면 나오는 index.html 페이지](%E1%84%86%E1%85%A5%E1%84%89%E1%85%B5%E1%86%AB%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20-%20%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%8B%E1%85%A2%E1%86%B8%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%2084896be1121e4c98af9846fae4c06df1/Untitled%201.png)
+![초기 Flask 웹을 실행하면 나오는 index.html 페이지](../images/result1.png)
 
 초기 Flask 웹을 실행하면 나오는 index.html 페이지
 
 해당 페이지에 특정 시간, 위도, 경도 값을 입력하여 `predict country where the UFO is seen` 버튼을 클릭하면 모델이 예측한 결과를 반환하여 보여줍니다.
 
-![Seconds : 10, Latitude : -50, Longitude : 45 의 모델 예측 결과 - Australia.](%E1%84%86%E1%85%A5%E1%84%89%E1%85%B5%E1%86%AB%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20-%20%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%8B%E1%85%A2%E1%86%B8%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%2084896be1121e4c98af9846fae4c06df1/Untitled%202.png)
+![Seconds : 10, Latitude : -50, Longitude : 45 의 모델 예측 결과 - Australia.](../images/result2.png)
 
 Seconds : 10, Latitude : -50, Longitude : 45 의 모델 예측 결과 - Australia.
 
