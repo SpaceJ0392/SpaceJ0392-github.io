@@ -532,13 +532,13 @@ python app.py 또는 python3 app.py
 
 ![초기 Flask 웹을 실행하면 나오는 index.html 페이지](../images/result1.png)
 
-초기 Flask 웹을 실행하면 나오는 index.html 페이지
+**초기 Flask 웹을 실행하면 나오는 index.html 페이지**
 
 해당 페이지에 특정 시간, 위도, 경도 값을 입력하여 `predict country where the UFO is seen` 버튼을 클릭하면 모델이 예측한 결과를 반환하여 보여줍니다.
 
 ![Seconds : 10, Latitude : -50, Longitude : 45 의 모델 예측 결과 - Australia.](../images/result2.png)
 
-Seconds : 10, Latitude : -50, Longitude : 45 의 모델 예측 결과 - Australia.
+**Seconds : 10, Latitude : -50, Longitude : 45 의 모델 예측 결과 - Australia.**
 
 ---
 
