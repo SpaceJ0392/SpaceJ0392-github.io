@@ -1567,7 +1567,8 @@ plt.show()
 
 
     
-![png](output_48_0.png)
+![png](../images
+/beginner_colab_img.png)
     
 
 
